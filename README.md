@@ -8,22 +8,6 @@ SiteScout is an agentic AI-powered lead generation platform designed for web dev
 
 ---
 
-## Quick Start
-
-The fastest way to get SiteScout running locally:
-
-1.  **Clone & Install**
-    ```bash
-    pdm install
-    pdm run playwright install chromium
-    ```
-2.  **Configure**
-    Copy `.env.example` to `local.env` and add your `GOOGLE_PLACES_API_KEY` (optional).
-3.  **Launch**
-    Double-click `run_local.bat` in the root directory.
-    *   **Frontend**: http://localhost:5173
-    *   **Backend**: http://localhost:8000
-
 ## Demo Video
 
 https://github.com/THET0305/site-scout/video/demo_video.mp4
