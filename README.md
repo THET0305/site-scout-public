@@ -10,7 +10,7 @@ SiteScout is an agentic AI-powered lead generation platform designed for web dev
 
 ## Demo Video
 
-https://github.com/THET0305/site-scout/video/demo_video.mp4
+video/SiteScoutDemo.mp4
 
 ---
 
